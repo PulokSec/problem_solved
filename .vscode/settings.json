@@ -30,7 +30,10 @@
   ],
   "files.associations": {
     "stdio.h": "c",
-    "math.h": "c"
+    "math.h": "c",
+    "typeinfo": "c",
+    "ostream": "cpp",
+    "iostream": "cpp"
   },
   "C_Cpp.errorSquiggles": "Disabled"
 }
