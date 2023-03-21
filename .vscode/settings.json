@@ -33,7 +33,9 @@
     "math.h": "c",
     "typeinfo": "c",
     "ostream": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "random": "cpp",
+    "new": "cpp"
   },
   "C_Cpp.errorSquiggles": "Disabled"
 }
